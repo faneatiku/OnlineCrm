@@ -1,0 +1,5 @@
+{
+    "require": {
+        "braincrafted/bootstrap-bundle": " ~2.0"
+    }
+}
